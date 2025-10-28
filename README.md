@@ -1,62 +1,58 @@
-# BATCH EXTRACTOR AND DOWNLOADER
+<h1 align="center">
+  ✨ SAINI DRM Bot ✨
+</h1>
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://telegram.dog/rishavdevkr)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+DRM+Bot+by+@nikhil.saini.khe" alt="Typing SVG" />
+</p>
 
-## Deploy To Google Colab
+---
 
-<a href="https://colab.research.google.com/github/AshutoshGoswami24/text-leech-bot/blob/main/text_leech_bot" target="_blank">
-  <img src="https://ashutoshgoswami24.github.io/Me/img/gc.png" alt="Deploy To Google Colab" style="width:150px;"/>
-</a>
+> 🔐 **Note:** CP DRM supported — Minimum quality **360p**  
+> 🚫 **Do not remove the credit tag**
 
+---
 
-## How to Deploy? 🤔. you can deploy over Heroku or your VPS too.
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NARUJAT/DRM-Bot-2)
+## 📜 Commands
 
-## COMMANDS
-### AVAILABLE COMMANDS 
-```
-/start - check whether the bot is alive 
-/pro - For downloading all app videos such as Physics Wallah, Khan GS, careerwill, E1 Coaching App,
-Classplus app and all the other app which is available in you text Files
-``` 
+| Command | Description |
+|---------|-------------|
+| `/start` | Start the bot |
+| `/stop`  | Stop the bot |
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+---
 
-# Deploy
+## 🚀 Deployment Process
 
-Deploy on `VPS`
+🎬 **Watch Full Deployment Tutorial:**  
+[![YouTube Video](https://img.shields.io/badge/Watch%20on-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/PYDtSTM6w44?si=noKPl7o4iU9SR_TO)
 
-Easy Method:
+### Step-by-Step:
+1. **Fork** the Repository  
+2. **Edit `vars.py`** — Fill in your `API_ID` and `API_HASH`  
+3. **Edit `README.md`** — Change the deploy button links to point to your own fork  
+4. Choose any platform and **Deploy** directly using the buttons below:
 
-- Intall docker-compose
-- Fill in the variables in docker-compose.yml file using your favorite text editor or nano 
-- Start the container 
+---
 
-```
-sudo apt install docker-compose -y
-nano docker-compose.yml
-sudo docker-compose up --build
-```
-### Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/.ipyn)
+## 📦 Deploy via Buttons
 
+[![Deploy to Render](https://img.shields.io/badge/Deploy%20to-Render-blue?style=for-the-badge&logo=render)](https://render.com/deploy)  
+[![Deploy to Heroku](https://img.shields.io/badge/Deploy%20to-Heroku-purple?style=for-the-badge&logo=heroku)](https://www.heroku.com/deploy?template=https://github.com/nikhilsainiop/saini-txt-direct)  
+[![Deploy to Koyeb](https://img.shields.io/badge/Deploy%20to-Koyeb-black?style=for-the-badge&logo=koyeb)](https://app.koyeb.com/deploy?name=saini-txt-direct&repository=nikhilsainiop%2FSaini-txt-direct&branch=main&instance_type=free&instances_min=0)
 
-Deploy on 'colab'
+---
 
-The hard Way:
+## 🤖 Bot Usernames
 
-- Fill vars in your fork in [this](https://github.com/vasusen-code/SaveRestrictedContentBot/blob/master/main/__init__.py) file as shown in this [picture](https://t.me/MaheshChauhan/36)
-- enter all the below commands
+- [Saini_Contact](https://t.me/saini_contact_bot)
 
-```
-sudo apt update
-sudo apt install ffmpeg git python3-pip
-git clone https://gitHub.com/rishavdevkr/maal
-cd maal 
-pip3 install -r requirements.txt
-python3 -m main
-```
+---
 
-- if you want bot to be running in background then enter `screen -S srcb` before `python3 -m main` 
-- after `python3 -m main`, click ctrl+A, ctrl+D
-- if you want to stop bot, then enter `screen -r srcb` and click ctrl+A then press K and enter Y.
+## 📂 Original Repositories
+
+- 🔗 [nikhilsainiop/saini-txt-direct](https://github.com/nikhilsainiop/saini-txt-direct)
+
+---
+
+> 👨‍💻 Created with ❤️ by [@nikhil.saini.khe](https://instagram.com/nikhil.saini.khe)

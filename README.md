@@ -45,13 +45,13 @@
 
 ## 🤖 Bot Usernames
 
-- [Saini_Contact](https://t.me/saini_contact_bot)
+- [Saini_Contact](https://t.me/Nondrm1505uploader_bot)
 
 ---
 
 ## 📂 Original Repositories
 
-- 🔗 [nikhilsainiop/saini-txt-direct](https://github.com/nikhilsainiop/saini-txt-direct)
+- 🔗 [1505-prinsu/DRM-Bot-2](https://github.com/1505-prinsu/DRM-Bot-2)
 
 ---
 
